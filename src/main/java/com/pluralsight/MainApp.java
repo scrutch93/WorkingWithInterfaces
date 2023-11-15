@@ -8,7 +8,7 @@ public class MainApp {
 
     public static void main(String[] args) {
 
-        List<Person> myFam = new ArrayList<Person>();
+        List<Person> myFam = new ArrayList<>();
 
         myFam.add(new Person("Steven", "Crutchfield", 30));
         myFam.add(new Person("Bryan", "Crutchfield", 27));
